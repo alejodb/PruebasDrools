@@ -5,7 +5,7 @@
   <groupId>co.com.pragmacero.gla</groupId>
   <artifactId>GLAReglasSegmentacion</artifactId>
   <version>1.0</version>
-  <name>gla</name>
+  <name>GLAReglasSegmentacion</name>
   <build>
     <plugins>
       <plugin>
