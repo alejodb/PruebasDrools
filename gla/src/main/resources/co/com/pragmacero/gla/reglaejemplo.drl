@@ -1,8 +1,0 @@
-package co.com.pragmacero.gla;
-
-rule "helloworldrule"
-ruleflow-group "helloworldgroup"
-when 
-then
-	System.out.println("Hola mundo!");
-end
