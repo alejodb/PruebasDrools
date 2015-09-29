@@ -4,5 +4,5 @@ rule "helloworldrule"
 ruleflow-group "helloworldgroup"
 when 
 then
-	System.out.println("Hello World!");
+	System.out.println("Hola mundo!");
 end
